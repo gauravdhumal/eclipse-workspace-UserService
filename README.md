@@ -32,3 +32,6 @@ Backend:
 - Java Mail Sender
 
 This project demonstrates a production-style authentication system with secure API communication between Angular and Spring Boot.
+
+
+
